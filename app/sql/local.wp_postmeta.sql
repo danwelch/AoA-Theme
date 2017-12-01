@@ -4,8 +4,8 @@
 INSERT INTO `wp_postmeta` VALUES
 (1,2,"_wp_page_template","default"),
 (2,4,"_edit_last","1"),
-(3,4,"_edit_lock","1509924018:1"),
-(4,4,"_wp_page_template","home.php"),
+(3,4,"_edit_lock","1510517191:1"),
+(4,4,"_wp_page_template","page-templates/home.php"),
 (5,7,"_menu_item_type","post_type"),
 (6,7,"_menu_item_menu_item_parent","0"),
 (7,7,"_menu_item_object_id","4"),

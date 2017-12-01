@@ -3,4 +3,4 @@
 /*!40103 SET TIME_ZONE='+00:00' */;
 INSERT INTO `wp_terms` VALUES
 (1,"Uncategorized","uncategorized",0),
-(2,"Menu 1","menu-1",0);
+(2,"Primary","primary",0);
